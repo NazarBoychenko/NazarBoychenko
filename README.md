@@ -1,39 +1,39 @@
-<div class='wrapper'><span>Hi, I am a Front-end Developer</span>
+<h1 align="center">Hi 👋, I'm Nazar Boychenko</h1>
+<h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-<svg width="1100" height="400" viewBox="0 0 1201 414" fill="none" xmlns="http://www.w3.org/2000/svg">
-<style>
-path {
-   stroke-dasharray: 9145;
-   stroke-dashoffset: 9145;
-   animation: draw 5s linear forwards;
-}
-@keyframes draw {
-100% {
-      stroke-dashoffset: 0;
-   }
-}
-</style>
-<path d="M1.62061 277.352C20.288 277.352 42.5658 271.4 60.0454 265.219C68.602 262.193 67.0773 256.553 67.1385 248.606C67.272 231.244 68.4613 214.012 74.0449 197.461C79.3028 181.875 85.4974 166.392 89.5377 150.422C94.406 131.181 89.6747 114.713 83.0046 96.6642C81.0221 91.2997 79.8531 84.8591 75.5382 80.7981C72.5258 77.9629 73.955 95.7711 74.0449 97.4109C75.5984 125.762 90.6511 150.903 105.684 174.222C126.602 206.669 153.497 231.382 179.601 259.246C209.272 290.916 210.745 338.529 186.415 374.228C176.17 389.26 161.657 392.479 144.229 390.468C123.456 388.071 94.3538 380.415 89.7244 356.496C85.3005 333.639 95.8199 312.934 112.497 297.978C155.387 259.512 213.75 244.382 263.692 217.807C293.83 201.77 324.068 182.673 335.183 148.743C341.469 129.554 341.295 108.861 343.956 89.0111C345.398 78.2546 347.626 66.6558 343.023 56.3455C340.402 50.474 339.022 51.075 340.129 57.2788C340.768 60.8541 341.362 64.6464 340.876 68.2918C339.427 79.1583 308.918 83.4414 301.211 85.4646C278.873 91.3282 256.235 97.107 233.453 100.957C215.303 104.025 197.106 104.973 179.228 109.637C157.165 115.393 135.733 124.154 114.364 132.036C102.148 136.542 76.589 142.247 72.7383 157.329C69.2586 170.958 79.8872 180.357 90.471 186.541C121.779 204.834 160.512 211.983 195.001 221.727C235.725 233.232 276.742 243.858 317.824 254.019C329.119 256.813 343.902 255.669 349.649 266.805C360.982 288.762 364.179 308.623 360.009 333.163C356.885 351.546 353.608 368.637 355.156 387.481C355.397 390.42 356.762 416.55 364.675 411.934C372.538 407.347 379.746 399.485 385.955 393.174C402.276 376.586 417.647 358.771 431.5 340.07C473.083 283.932 502.476 220.143 499.631 149.022C498.282 115.298 488.915 84.4065 475.552 53.7323C467.995 36.3857 458.347 19.871 442.139 9.30708C437.962 6.58421 431.326 1.68564 425.9 1.84066C412.643 2.21944 436.76 38.4512 438.406 41.3194C455.632 71.3249 476.425 99.201 499.631 124.85C518.369 145.56 542.029 159.608 562.722 178.048C567.796 182.569 611.674 228.509 595.761 236.66C587.911 240.681 577.21 241.095 568.789 242.073C550.622 244.182 532.381 245.61 514.19 247.486C476.289 251.395 438.325 258.872 400.141 258.872C388.763 258.872 376.987 259.694 365.702 257.939C365.03 257.834 358.346 255.698 357.582 257.379C355.511 261.937 365.119 274.96 367.102 278.285C384.01 306.641 414.919 324.063 443.633 338.39C479.73 356.4 518.265 368.659 554.882 385.428C559.005 387.316 569.442 390.495 569.442 396.628C569.442 397.992 569.442 403.213 569.442 398.121C569.442 372.343 576.825 348.434 587.361 325.043C609.745 275.351 639.297 228.981 659.412 178.235C669.096 153.805 679.331 127.332 682.932 101.144C684.209 91.8573 680.217 79.8022 682.372 71.1851C682.913 69.0196 729.626 98.3466 731.837 99.6508C769.68 121.978 809.382 140.678 847.753 161.995C851.133 163.874 862.492 168.238 864.739 171.888C867.116 175.75 831.984 199.176 829.74 200.821C806.333 217.972 781.522 229.592 753.583 237.5C723.327 246.062 689.431 247.9 661.092 262.232C651.231 267.219 631.635 284.337 639.626 296.484C647.981 309.183 657.196 321.095 666.412 333.163C668.325 335.668 680.172 348.638 670.612 347.443C636.904 343.229 602.205 323.332 571.682 309.737C556.256 302.867 540.419 296.109 525.577 287.991C516.879 283.234 514.302 278.394 512.697 268.765C502.406 207.021 503.876 129.095 456.326 81.5447C435.176 60.3949 404.476 49.8823 375.502 45.3326C370.646 44.5701 357.506 41.6443 360.755 45.3326C371.453 57.4762 398.306 65.868 411.9 71.2784C489.92 102.328 572.769 115.066 656.239 120.183C728.297 124.601 799.026 118.22 870.712 112.53C890.313 110.975 912.26 108.782 931.937 111.784C936.17 112.429 957.223 115.792 946.123 119.903C918.355 130.188 890.775 140.966 862.872 150.889C806.79 170.835 742.847 187.589 695.438 225.273C671.758 244.096 647.937 280.876 667.065 310.764C675.743 324.323 689.359 325.841 704.584 325.603C735.921 325.114 768.343 317.855 798.474 309.831C822.035 303.555 858.668 295.74 873.045 273.338C881.751 259.774 871.361 241.065 870.525 226.58C869.518 209.112 873.71 191.776 878.925 175.248C884.35 158.053 884.56 141.145 888.911 124.01C898.997 84.2992 942.773 99.0482 969.642 109.357C1006.07 123.334 1046.81 144.333 1057.19 184.955C1060.57 198.202 1045.16 203.868 1036.09 209.221C1009.01 225.211 981.202 242.002 956.763 261.859C948.091 268.905 937.442 276.849 939.31 289.298C941.232 302.113 951.242 312.589 959.562 321.777C966.519 329.458 974.437 336.878 980.282 345.483C986.118 354.074 976.022 352.737 969.082 352.856C922.844 353.646 876.645 354.108 830.953 362.282C819.961 364.249 788.859 372.953 799.874 374.788C818.571 377.905 837.08 372.115 854.566 366.015C880.059 357.122 905.293 346.855 930.07 336.15C959.759 323.322 991.405 309.487 1016.49 288.551C1071.1 242.985 1016.33 166.564 1026.76 109.17C1028.11 101.735 1035.68 91.6602 1034.41 84.0646C1033.27 77.2035 1021.7 69.6485 1015 69.7851C988.531 70.3253 1027.35 168.27 1030.68 177.862C1040.82 207.072 1049.32 238.413 1067.83 263.725C1074.15 272.375 1081.99 279.908 1089.48 287.525C1089.58 287.625 1100.28 297.525 1098.72 298.164C1091.73 301.024 1077.08 300.154 1070.44 300.684C1039.89 303.125 1009.42 304.741 978.789 305.911C942.323 307.303 905.957 308.733 869.592 311.884C857.455 312.935 836.599 318.841 823.86 315.244C810.96 311.601 802.446 280.265 797.168 270.259C780.881 239.381 760.941 206.78 737.903 180.475C703.731 141.457 657.067 117.537 609.667 98.2508C555.211 76.094 498.667 64.5734 439.806 69.6918C386.983 74.285 331.167 103.974 342.836 165.355C350.321 204.725 388.731 230.189 423.1 244.499C454.863 257.725 488.927 263.752 522.964 267.179C590.63 273.991 658.992 272.11 726.89 273.432C812.831 275.105 898.59 279.463 984.575 278.938C1004.16 278.819 1024.04 279.127 1043.56 276.978C1049.49 276.325 1055.67 273.992 1061.67 273.992C1070.12 273.992 1079.54 278.674 1087.8 280.338C1098.15 282.423 1108.72 285.751 1119.34 285.751C1132.29 285.751 1145.23 285.751 1158.17 285.751C1171.93 285.751 1186.59 284.071 1199.42 284.071" stroke="#c99c1e" stroke-width="3" stroke-linecap="round"/>
-</svg>
+- 👨‍💻 All of my projects are available at [https://github.com/NazarBoychenko](https://github.com/NazarBoychenko)
 
-</div>
+- 💬 Ask me about **Frontend and everything related to it!**
 
-<style>
-   .wrapper{
-display: flex;
-justify-content: center;
-align-items: center;
-width: 100%;
-height: 400px;
-   }
-   svg {
-position: absolute;
-}
-   span {
-      font-size: 40px;
-      text-shadow: 0 0 7px #000, 0 0 7px #000;
-      position: relative;
-      z-index: 2;
-   }
-</style>
+- 📫 How to reach me **bojcenkonazar9@gmail.com**
 
+- ⚡ Fun fact **I know how to surprise)**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+   <a href="https://linkedin.com/in/nazar bouchenko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nazar bouchenko" height="30" width="40" /></a>
+   <a href="https://stackoverflow.com/users/user:22959031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:22959031" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
+   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
+   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
+   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazarboychenko&show_icons=true&locale=en&layout=compact" alt="nazarboychenko" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nazarboychenko&show_icons=true&locale=en" alt="nazarboychenko" /></p>
